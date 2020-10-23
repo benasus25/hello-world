@@ -1,0 +1,30 @@
+body{
+    background-color:black;
+    color: white;
+}
+
+.test{
+    color: rgb(247, 243, 4);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center ;
+
+}
+.button{
+    background-color: rgb(49, 167, 221);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin:50px;
+    border:none;
+    padding:15px 30px;
+    display: inline-block;
+    cursor:pointer;
+    text-align: center;
+}WDSA
+.button:hover{
+    background-color: rgb(10, 99, 233);
+}
+
+#image{
+height: 400px;
+width:500px;
+}
